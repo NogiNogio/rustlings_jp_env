@@ -1,3 +1,4 @@
 [submodule "rustling-jp"]
 	path = rustling-jp
 	url = https://github.com/sotanengel/rustlings-jp.git
+	ignore = dirty
